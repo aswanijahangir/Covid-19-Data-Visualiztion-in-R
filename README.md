@@ -1,3 +1,3 @@
 # Covid-19-Data-Visualiztion-in-R
 
-Here I have done a datacamp guided project to visualize COVID-19 data in R programming.
+I've completed a guided project on DataCamp that involves visualizing COVID-19 data using R programming.
